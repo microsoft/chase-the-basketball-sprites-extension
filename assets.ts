@@ -1,5 +1,6 @@
 namespace spacejamspritesSprites {
     //% fixedInstance jres blockIdentity=images._image
+    //% tags="background"
     export const basketballcourt = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
     export const bugs = image.ofBuffer(hex``);
